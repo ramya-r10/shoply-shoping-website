@@ -1,16 +1,78 @@
-# React + Vite
+ 🛒 Shoply - React E-Commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern and responsive e-commerce shopping website built with **React.js**. The project provides an attractive UI similar to Amazon/Flipkart with product browsing, search functionality, wishlist, cart management, and category filtering.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📸 Preview
 
-## React Compiler
+Home Page
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Responsive Navigation Bar
+- Product Search
+- Category Menu
+- Hero Banner
+- Today's Deals
+- Product Cards
+- Wishlist
+- Shopping Cart
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## ✨ Features
+
+### 🏠 Home Page
+- Modern Hero Section
+- Promotional Banner
+- Today's Deals
+- Featured Products
+- Discount Badges
+
+### 🔍 Search
+- Search products instantly
+- Filter products by name
+
+### 📂 Categories
+- All
+- Laptops
+- Mobiles
+- Kitchen
+- Furniture
+- Home
+- Clothing
+
+### ❤️ Wishlist
+- Add products to wishlist
+- Remove from wishlist
+- Wishlist counter
+
+### 🛒 Shopping Cart
+- Add to Cart
+- Remove from Cart
+- Cart Counter
+- Quantity Management
+- Price Calculation
+
+### 👤 Account
+- Sign In
+- User Account Menu
+
+### 📦 Orders
+- Track Orders
+- Order History
+
+### 📱 Responsive Design
+- Desktop
+- Tablet
+- Mobile Friendly
+
+---
+
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript (ES6)
+- HTML5
+- CSS3
+- React Hooks
+- Vite
